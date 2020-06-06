@@ -128,7 +128,6 @@ class GifCard extends Component {
   render() {
     let display;
     let sequence = [...Array(this.state.title.length).keys()];
-    let showSort;
     //console.log(sequence);
 
     if (this.state.title.length === 0) {
