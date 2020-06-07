@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TTP-GIPHY-PROJECT/static/css/main.194e1b33.chunk.css",
+    "main.js": "/TTP-GIPHY-PROJECT/static/js/main.d508dc02.chunk.js",
+    "main.js.map": "/TTP-GIPHY-PROJECT/static/js/main.d508dc02.chunk.js.map",
+    "runtime-main.js": "/TTP-GIPHY-PROJECT/static/js/runtime-main.2dcca7f5.js",
+    "runtime-main.js.map": "/TTP-GIPHY-PROJECT/static/js/runtime-main.2dcca7f5.js.map",
+    "static/js/2.ce05f851.chunk.js": "/TTP-GIPHY-PROJECT/static/js/2.ce05f851.chunk.js",
+    "static/js/2.ce05f851.chunk.js.map": "/TTP-GIPHY-PROJECT/static/js/2.ce05f851.chunk.js.map",
+    "index.html": "/TTP-GIPHY-PROJECT/index.html",
+    "precache-manifest.9cf5d7c2b79b48a42f72aff301a63dbe.js": "/TTP-GIPHY-PROJECT/precache-manifest.9cf5d7c2b79b48a42f72aff301a63dbe.js",
+    "service-worker.js": "/TTP-GIPHY-PROJECT/service-worker.js",
+    "static/css/main.194e1b33.chunk.css.map": "/TTP-GIPHY-PROJECT/static/css/main.194e1b33.chunk.css.map",
+    "static/js/2.ce05f851.chunk.js.LICENSE.txt": "/TTP-GIPHY-PROJECT/static/js/2.ce05f851.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dcca7f5.js",
+    "static/js/2.ce05f851.chunk.js",
+    "static/css/main.194e1b33.chunk.css",
+    "static/js/main.d508dc02.chunk.js"
+  ]
+}
